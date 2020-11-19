@@ -15,12 +15,18 @@ body{
 
 }
 
+}
 
-/**a{
+a:hover{
+	color: #fff;
+=======
 	color: #999999;
 }
+
 a:hover{
 	color: #dddddd;
+=======
+
 }
 **/
 
